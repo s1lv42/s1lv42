@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=s1lv42&color=brightgreen" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Age-20-blue" />
+  <img src="https://img.shields.io/badge/Focus-%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Brazil-success" />
+  <img src="https://img.shields.io/badge/Languages-English &%20Portuguese-brightgreen" />
+</p>
 
-<!--
-**s1lv42/s1lv42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ **Skills**
+<p align="left">
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
+</p>
+<hr>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s1lv42&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+</p>
+<p>
+  &nbsp;
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=s1lv42&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410"/>
+</p>
+<br><br><br><br><br>
+<hr>
+<p align="center">
+  <a href="https://www.instagram.com/jefersonrobertors/" target="_blank"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"></a>
+  <a href="#" target="_blank"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
+</p>
