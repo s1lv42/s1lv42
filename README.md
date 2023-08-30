@@ -8,14 +8,14 @@
 
 ✔ **Skills**
 <p align="left">
-  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
-  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
-  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
-  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
-  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
-  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"></code>
-  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
-  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"></code>
 </p>
 <hr>
 <p>
