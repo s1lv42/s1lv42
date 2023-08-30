@@ -29,5 +29,5 @@
 <hr>
 <p align="center">
   <a href="https://www.instagram.com/jefersonrobertors/" target="_blank"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"></a>
-  <a href="#" target="_blank"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
+  <a href="https://discord.com/channels/@Jeferson%20Silva#0757" target="_blank"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
 </p>
