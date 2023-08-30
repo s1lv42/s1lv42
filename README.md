@@ -25,7 +25,7 @@
   &nbsp;
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=s1lv42&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410"/>
 </p>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <hr>
 <p align="center">
   <a href="https://www.instagram.com/jefersonrobertors/" target="_blank"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"></a>
