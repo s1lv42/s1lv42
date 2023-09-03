@@ -16,6 +16,9 @@
   <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"></code>
   <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
   <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"></code>
 </p>
 <hr>
 <p>
